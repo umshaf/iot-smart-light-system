@@ -9,6 +9,6 @@ This repository contains the Arduino code for an IoT-based smart light system us
 - Simple Edge AI (adaptive threshold using rolling average)
 
 Included Code:
-- SmartLight_FixedThreshold.ino
+- Smart_Light_System.ino
 - SmartLight_EdgeAI.ino
 - SmartLight_ThingSpeak.ino
