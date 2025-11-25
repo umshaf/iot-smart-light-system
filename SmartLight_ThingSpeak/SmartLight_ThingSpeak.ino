@@ -1,10 +1,10 @@
 #include <WiFiS3.h>
 
-const char* ssid     = "BT-28A3RF";
-const char* password = "gTGRxgCimh3yKD";
+const char* ssid     = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 const char* server    = "api.thingspeak.com";
-String apiKey         = "21RDVVQQLSBXN3X9";  
+String apiKey         = "YOUR_API_KEY";  
 long channelID        = 3181117;             
 
 const int SENSOR_PIN = A0;   
