@@ -10,5 +10,4 @@ This repository contains the Arduino code for an IoT-based smart light system us
 
 Included Code:
 - Smart_Light_System.ino
-- SmartLight_EdgeAI.ino
 - SmartLight_ThingSpeak.ino
